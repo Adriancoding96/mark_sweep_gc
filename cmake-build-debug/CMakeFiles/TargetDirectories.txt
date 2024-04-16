@@ -1,0 +1,3 @@
+C:/Users/adria/CLionProjects/mark_sweep_gc/cmake-build-debug/CMakeFiles/mark_sweep_gc.dir
+C:/Users/adria/CLionProjects/mark_sweep_gc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adria/CLionProjects/mark_sweep_gc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
